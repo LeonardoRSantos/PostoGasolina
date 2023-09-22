@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Array de tipos de combustível -->
+    <string-array name="tipo_combustivel">
+        <item>gasolina</item>
+        <item>alcool</item>
+        <item>diesel</item>
+    </string-array>
+    <string-array name="forma_pagamento">
+        <item></item>
+        <item>Crédito</item>
+        <item>Débito</item>
+        <item>Pix</item>
+        <item>Espécie</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
